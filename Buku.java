@@ -13,23 +13,23 @@ public class Buku {
     
     //Getter for id, judul, penulis, jumlah_halaman, harga
     public int getId(){
-        return.this.id;
+        return this.id;
     }
 
     public int getJudul(){
-        return.this.judul;
+        return this.judul;
     }
 
     public int getPenulis(){
-        return.this.penulis;
+        return this.penulis;
     }
 
     public int getjumlahHalaman(){
-        return.this.jumlahHalaman;
+        return this.jumlahHalaman;
     }
  
     public double getHarga(){
-        return.this.harga;
+        return this.harga;
     }
 
     //Setter for id, judul, penulis, jumlah_halaman, harga
