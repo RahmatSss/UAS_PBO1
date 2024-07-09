@@ -21,16 +21,16 @@ public class Pengguna{
     }
 
     public int getId(){
-        return.this.id;
+        return this.id;
     }
 
     public String getUsername(){
-        return.this.username;
+        return this.username;
     }
 
     //Getter for password Latihan 1
      public String getPassword(){
-        return.this.password;
+        return this.password;
     }
 
     public void setId(int id){
